@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Часто используемый сценарий
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Показывает самый часто используемый сценарий справа от кнопки "Добавить номер только для входящих звонков"
 // @match        https://panel.binotel.com/?module=pbxNumbers&companyID=*
 // @grant        none
