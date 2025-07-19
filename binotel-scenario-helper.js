@@ -5,8 +5,8 @@
 // @description  Показывает самый часто используемый сценарий справа от кнопки "Добавить номер только для входящих звонков"
 // @match        https://panel.binotel.com/?module=pbxNumbers&companyID=*
 // @grant        none
-// @updateURL
-// @downloadURL
+// @updateURL    https://raw.githubusercontent.com/ragezorr/tampermonkey-scripts/main/binotel-scenario-helper.js
+// @downloadURL  https://raw.githubusercontent.com/ragezorr/tampermonkey-scripts/main/binotel-scenario-helper.js
 // ==/UserScript==
 
 (function() {
